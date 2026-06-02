@@ -1,4 +1,5 @@
 # EFM-recovery-RCT-stata
+[![DOI](https://zenodo.org/badge/1240452779.svg)](https://doi.org/10.5281/zenodo.20510957)
 
 Stata analysis code for the randomised controlled trial:
 
