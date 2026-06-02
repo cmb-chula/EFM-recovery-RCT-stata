@@ -1,0 +1,9 @@
+arm,assessor,cat1,n
+Bolus,Bedside,26,30
+Continuous,Bedside,16,30
+Bolus,Reviewer_A,21,30
+Continuous,Reviewer_A,15,30
+Bolus,Reviewer_B,22,30
+Continuous,Reviewer_B,13,30
+Bolus,Consensus,24,30
+Continuous,Consensus,14,30

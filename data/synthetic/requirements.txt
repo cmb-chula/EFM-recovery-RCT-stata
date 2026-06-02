@@ -1,0 +1,5 @@
+# Dependencies for generate_synthetic_data.py only (the Stata pipeline needs none).
+# Tested with numpy 2.4.4 and openpyxl 3.1.5; numpy's default_rng (PCG64) stream
+# is stable across versions, so the bundled synthetic files regenerate identically.
+numpy>=1.24
+openpyxl>=3.1
